@@ -15,5 +15,7 @@ ActivityMainBinding activityMainBinding;
 
         activityMainBinding= DataBindingUtil.setContentView(this,R.layout.activity_main);
         activityMainBinding.tv.setText("hello");
+        //this is update
+
     }
 }
